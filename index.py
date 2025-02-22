@@ -5,8 +5,8 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 # Email credentials
-your_email = "5u5h1lkum4r.y4d4v@gmail.com"
-your_password = "hego epto znki gnze"  # Avoid hardcoding sensitive data like this
+your_email = "your mail"  //5u5h1lkum4r.y4d4v@gmail.com//
+your_password = " mail pass please"  //hego epto znki gnze// # Avoid hardcoding sensitive data like this
 
 # SMTP server configuration
 smtp_server = "smtp.gmail.com"
